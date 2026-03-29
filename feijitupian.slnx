@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="feijitupian/feijitupian.vcxproj" Id="d5050a58-dfbc-4d53-b99e-4b65a71d8cba" />
+</Solution>
